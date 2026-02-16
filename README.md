@@ -100,6 +100,7 @@ This project is licensed under a **Proprietary License**.
 ### 💼 Commercial & Pre-built Versions
 If you intend to replicate this software for commercial purposes, or if you wish to obtain **pre-made, ready-to-use versions** (Linux, Windows, WebApp, or Android), please contact the owner:
 - 📧 **Email**: [ghutkesumit@gmail.com](mailto:ghutkesumit@gmail.com)
+- 🔗 **LinkedIn**: [Sumit Ghutke](https://www.linkedin.com/in/sumeet-ghutke-a7746a305/)
 
 ---
 

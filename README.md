@@ -97,7 +97,9 @@ This project is licensed under a **Proprietary License**.
 - **Personal/Educational Use**: Free.
 - **Commercial Use & Replication**: Requires a **paid commercial license**.
 
-If you intend to replicate this software for commercial purposes, sell it, or use it within a business environment, you **must contact the author** to arrange for licensing and payment. See the [LICENSE](LICENSE) file for full details.
+### 💼 Commercial & Pre-built Versions
+If you intend to replicate this software for commercial purposes, or if you wish to obtain **pre-made, ready-to-use versions** (Linux, Windows, WebApp, or Android), please contact the owner:
+- 📧 **Email**: [ghutkesumit@gmail.com](mailto:ghutkesumit@gmail.com)
 
 ---
 
